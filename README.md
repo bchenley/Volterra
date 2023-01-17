@@ -8,4 +8,4 @@
 * Autoregressive case
 * Nonstationary case
 
-![](https://github.com/bchenley/Portfolio/blob/main/images/lvn_diagram_1.jpg)
+![](https://github.com/bchenley/Portfolio/blob/main/images/lvn_1input_1output.jpg)
