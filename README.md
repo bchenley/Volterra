@@ -1,6 +1,6 @@
 # Portfolio
 
-# Project 1: Time Series Forecasting using Volterra Modeling in PyTorch
+# [Project 1: Time Series Forecasting using Volterra Modeling in PyTorch](https://github.com/bchenley/Portfolio/blob/main/Volterra.ipynb
 * The Volterra modeling approach: An introduction
 * Model development in Pytorch
 * Single-input case
