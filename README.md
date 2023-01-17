@@ -5,6 +5,7 @@
 * Model development in Pytorch
 * Single-input case
 * Two-input case
+* Autoregressive case
 * Nonstationary case
 
 ![](https://github.com/bchenley/Portfolio/blob/main/images/lvn_diagram_1.jpg)
