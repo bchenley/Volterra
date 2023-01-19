@@ -7,7 +7,7 @@
 In this project, we build custom PyTorch modules for the development of Volterra-equivalent networks for time series analysis. The model supports mutli-input, multi-output, nonlinear, nonstationary and autoregressive models.
   
 **Requirements**  
-- Python 3
+- Python
 - PyTorch
 - SciKit Learn
 - SciPy
