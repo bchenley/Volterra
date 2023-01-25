@@ -1,3 +1,3 @@
-# [Project 1: A Novel Time Series Forecasting Model Using Functional Expansions](https://github.com/bchenley/Portfolio)
+# [Project 1: Implementing Volterra Modeling in PyTorch](https://github.com/bchenley/Portfolio)
 
   
